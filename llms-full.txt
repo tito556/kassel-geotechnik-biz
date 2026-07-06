@@ -1,0 +1,49 @@
+# Geotechnik — Kassel
+
+> Geotechnical engineering services in Kassel, Deutschland.
+
+## Services
+- [Anker](https://kassel.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://kassel.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://kassel.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://kassel.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://kassel.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://kassel.geotechnik.biz/bodenverbesserung/)
+- [Cbr Strasse](https://kassel.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://kassel.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://kassel.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://kassel.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://kassel.geotechnik.biz/fundamente/)
+- [Geophysik](https://kassel.geotechnik.biz/geophysik/)
+- [Grundungen](https://kassel.geotechnik.biz/grundungen/)
+- [Hange](https://kassel.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://kassel.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://kassel.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://kassel.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://kassel.geotechnik.biz/labor/)
+- [Labor In Situ](https://kassel.geotechnik.biz/labor-in-situ/)
+- [Masw](https://kassel.geotechnik.biz/masw/)
+- [Pfahle](https://kassel.geotechnik.biz/pfahle/)
+- [Plattendruckversuch](https://kassel.geotechnik.biz/plattendruckversuch/)
+- [Sandkegel Dichte](https://kassel.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://kassel.geotechnik.biz/schottersaulen/)
+- [Seismik](https://kassel.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://kassel.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://kassel.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://kassel.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://kassel.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://kassel.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://kassel.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://kassel.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://kassel.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://kassel.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://kassel.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://kassel.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://kassel.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://kassel.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Kassel, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
